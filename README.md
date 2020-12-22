@@ -1,3 +1,3 @@
 # Kokoa Clone 2020 Update
 
-CSS git so much better!
+HTML & CSS git so much fun!
