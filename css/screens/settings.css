@@ -14,3 +14,12 @@
 .settings__setting-column:last-child {
   opacity: 0.5;
 }
+
+.settings-list .settings__setting:last-child {
+  padding-bottom: 40px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+}
+
+.settings-list2 {
+  padding-top: 20px;
+}
